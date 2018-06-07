@@ -1,0 +1,12 @@
+terms as t
+term_word_association as ass
+t.base_form
+t.polish_translation
+t.grammatical_gender [0,1,2,4]  męski, żeński, nijaki   (4 - dywne. Np. zakupy, usłuhy, nycz)
+t.grammatical_part_of_speech [0..12]   rzecz, czas, przym, itd.
+ass.grammatical_person [0..7]    ja, ty, on, ona, ono, my, wy, oni, one
+ass.grammatical_tense [0..2]   teraźniejszy, przeszły, przyszły
+ass.grammatical_case [0..6]  kto?co?  Kogo?czego? itd.
+ass.grammatical_number [0,1]   poj, mnoga
+ass.grammatical_comparison [0..2]   stopień
+ass.word

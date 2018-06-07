@@ -1,0 +1,85 @@
+ jedzie dosyć szybko
+Tato jedzie dosyć wolno
+Tato jedzie bardzo szybko
+Tato jedzie bardzo wolno
+Tato idzie dosyć szybko
+Tato idzie dosyć wolno
+Tato idzie bardzo szybko
+Tato idzie bardzo wolno
+Tato biegnie dosyć szybko
+Tato biegnie dosyć wolno
+Tato biegnie bardzo szybko
+Tato biegnie bardzo wolno
+Mama jedzie dosyć szybko
+Mama jedzie dosyć wolno
+Mama jedzie bardzo szybko
+Mama jedzie bardzo wolno
+Mama idzie dosyć szybko
+Mama idzie dosyć wolno
+Mama idzie bardzo szybko
+Mama idzie bardzo wolno
+Mama biegnie dosyć szybko
+Mama biegnie dosyć wolno
+Mama biegnie bardzo szybko
+Mama biegnie bardzo wolno
+Brat jedzie dosyć szybko
+Brat jedzie dosyć wolno
+Brat jedzie bardzo szybko
+Brat jedzie bardzo wolno
+Brat idzie dosyć szybko
+Brat idzie dosyć wolno
+Brat idzie bardzo szybko
+Brat idzie bardzo wolno
+Brat biegnie dosyć szybko
+Brat biegnie dosyć wolno
+Brat biegnie bardzo szybko
+Brat biegnie bardzo wolno
+Gospodarz jedzie dosyć szybko
+Gospodarz jedzie dosyć wolno
+Gospodarz jedzie bardzo szybko
+Gospodarz jedzie bardzo wolno
+Gospodarz idzie dosyć szybko
+Gospodarz idzie dosyć wolno
+Gospodarz idzie bardzo szybko
+Gospodarz idzie bardzo wolno
+Gospodarz biegnie dosyć szybko
+Gospodarz biegnie dosyć wolno
+Gospodarz biegnie bardzo szybko
+Kot siedzi
+Pies biegnie
+Brat ma psa
+Brat ma kota
+Gospodarz ma kota
+Gospodarz jest zielony
+Kot jest zielony
+Kot to nie pies
+Gospodarz to nie pies
+Pies jest zielony
+Pies jest biały
+Pies jest czarny
+Pies jest czerwony
+Кот jest zielony
+Кот jest biały
+Кот jest czarny
+Кот jest czerwony
+Pies nie jest zielony
+Pies nie jest biały
+Pies nie jest czarny
+Pies nie jest czerwony
+Кот nie jest zielony
+Кот nie jest biały
+Кот nie jest czarny
+Кот nie jest czerwony
+Biała mama
+Zielona mama
+Szybka mama
+Wolna mama
+Biała dziewczyna
+Zielona dziewczyna
+Szybka dziewczyna
+Wolna dziewczyna
+Mama ma kota
+Mama nie ma kota
+Kot i pies
+Pies to zwierze
+Kot to zwierze

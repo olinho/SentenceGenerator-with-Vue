@@ -1,0 +1,3115 @@
+{
+  "a": {
+    "czesc_mowy": -1
+  },
+  "absurd": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "absurd",
+        "1": "absurdu",
+        "2": "absurdowi",
+        "3": "absurd",
+        "4": "absurdem",
+        "5": "absurdzie",
+        "6": "absurdzie"
+      },
+      "1": {
+        "0": "absurdy",
+        "1": "absurdów",
+        "2": "absurdom",
+        "3": "absurdy",
+        "4": "absurdami",
+        "5": "absurdach",
+        "6": "absurdy"
+      }
+    }
+  },
+  "absurdalny": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "absurdalny",
+            "1": "absurdalnego",
+            "2": "absurdalnemu",
+            "3": "absurdalnego",
+            "4": "absurdalnym",
+            "5": "absurdalnym",
+            "6": "absurdalny"
+          },
+          "1": {
+            "0": "absurdalni",
+            "1": "absurdalnych",
+            "2": "absurdalnym",
+            "3": "absurdalnych",
+            "4": "absurdalnymi",
+            "5": "absurdalnych",
+            "6": "absurdalni"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "absurdalne",
+            "1": "absurdalnego",
+            "2": "absurdalnemu",
+            "3": "absurdalne",
+            "4": "absurdalnym",
+            "5": "absurdalnym",
+            "6": "absurdalne"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "absurdalna",
+            "1": "absurdalnej",
+            "2": "absurdalnej",
+            "3": "absurdalną",
+            "4": "absurdalną",
+            "5": "absurdalnej",
+            "6": "absurdalna"
+          },
+          "1": {
+            "0": "absurdalne",
+            "1": "absurdalnych",
+            "2": "absurdalnym",
+            "3": "absurdalne",
+            "4": "absurdalnymi",
+            "5": "absurdalnych",
+            "6": "absurdalne"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      }
+    }
+  },
+  "aby": {
+    "czesc_mowy": -1
+  },
+  "agat": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agat",
+        "1": "agatu",
+        "2": "agatowi",
+        "3": "agat",
+        "4": "agatem",
+        "5": "agacie",
+        "6": "agacie"
+      },
+      "1": {
+        "0": "agaty",
+        "1": "agatów",
+        "2": "agatom",
+        "3": "agaty",
+        "4": "agatami",
+        "5": "agatach",
+        "6": "agaty"
+      }
+    }
+  },
+  "agencja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agencja",
+        "1": "agencji",
+        "2": "agencji",
+        "3": "agencję",
+        "4": "agencją",
+        "5": "agencji",
+        "6": "agencjo"
+      },
+      "1": {
+        "0": "agencje",
+        "1": "agencji/agencyj",
+        "2": "agencjom",
+        "3": "agencje",
+        "4": "agencjami",
+        "5": "agencjach",
+        "6": "agencje"
+      }
+    }
+  },
+  "agenda": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agenda",
+        "1": "agendy",
+        "2": "agendzie",
+        "3": "agendę",
+        "4": "agendą",
+        "5": "agendzie",
+        "6": "agendo"
+      },
+      "1": {
+        "0": "agendy",
+        "1": "agend",
+        "2": "agendom",
+        "3": "agendy",
+        "4": "agendami",
+        "5": "agendach",
+        "6": "agendy"
+      }
+    }
+  },
+  "agitacja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agitacja",
+        "1": "agitacji",
+        "2": "agitacji",
+        "3": "agitację",
+        "4": "agitacją",
+        "5": "agitacji",
+        "6": "agitacjo"
+      },
+      "1": {
+        "0": "agitacje",
+        "1": null,
+        "2": "agitacjom",
+        "3": "agitacje",
+        "4": "agitacjami",
+        "5": "agitacjach",
+        "6": "agitacje"
+      }
+    }
+  },
+  "agitator": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agitator",
+        "1": "agitatora",
+        "2": "agitatorowi",
+        "3": "agitatora",
+        "4": "agitatorem",
+        "5": "agitatorze",
+        "6": "agitatorze"
+      },
+      "1": {
+        "0": "agitatorzy",
+        "1": "agitatorów",
+        "2": "agitatorom",
+        "3": "agitatorów",
+        "4": "agitatorami",
+        "5": "agitatorach",
+        "6": "agitatorzy"
+      }
+    }
+  },
+  "agitować": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "agitowałem",
+          "1": "agitowałeś",
+          "2": "agitował",
+          "3": "agitowaliśmy",
+          "4": "agitowaliście",
+          "5": "agitowali"
+        },
+        "nijaki": {
+          "0": "agitowało"
+        },
+        "zenski": {
+          "0": "agitowałam",
+          "1": "agitowałaś",
+          "2": "agitowała",
+          "3": "agitowałyśmy",
+          "4": "agitowałyście",
+          "5": "agitowały"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę agitował",
+            "będę agitować"
+          ],
+          "1": [
+            "będziesz agitował",
+            "będziesz agitować"
+          ],
+          "2": [
+            "będzie agitował",
+            "będzie agitować"
+          ],
+          "3": [
+            "będziemy agitowali",
+            "będziemy agitować"
+          ],
+          "4": [
+            "będziecie agitowali",
+            "będziecie agitować"
+          ],
+          "5": [
+            "będą agitowali",
+            "będą agitować"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie agitowało",
+          "1": "będzie agitować"
+        },
+        "zenski": {
+          "0": [
+            "będę agitowała",
+            "będę agitować"
+          ],
+          "1": [
+            "będziesz agitowała",
+            "będziesz agitować"
+          ],
+          "2": [
+            "będzie agitowała",
+            "będzie agitować"
+          ],
+          "3": [
+            "będziemy agitowały",
+            "będziemy agitować"
+          ],
+          "4": [
+            "będziecie agitowały",
+            "będziecie agitować"
+          ],
+          "5": [
+            "będą agitowały",
+            "będą agitować"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "agituję",
+        "1": "agitujesz",
+        "2": "agituje",
+        "3": "agitujemy",
+        "4": "agitujecie",
+        "5": "agitują"
+      }
+    }
+  },
+  "aglomeracja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "aglomeracja",
+        "1": "aglomeracji",
+        "2": "aglomeracji",
+        "3": "aglomerację",
+        "4": "aglomeracją",
+        "5": "aglomeracji",
+        "6": "aglomeracjo"
+      },
+      "1": {
+        "0": "aglomeracje",
+        "1": "aglomeracji",
+        "2": "aglomeracjom",
+        "3": "aglomeracje",
+        "4": "aglomeracjami",
+        "5": "aglomeracjach",
+        "6": "aglomeracje"
+      }
+    }
+  },
+  "agonia": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "agonia",
+        "1": "agonii",
+        "2": "agonii",
+        "3": "agonię",
+        "4": "agonią",
+        "5": "agonii",
+        "6": "agonio"
+      },
+      "1": {
+        "0": "agonie",
+        "1": "agonii",
+        "2": "agoniom",
+        "3": "agonie",
+        "4": "agoniami",
+        "5": "agoniach",
+        "6": "agonie"
+      }
+    }
+  },
+  "aha": {
+    "czesc_mowy": -1
+  },
+  "asd": {
+    "czesc_mowy": null,
+    "odmiana": null
+  },
+  "asdf": {
+    "czesc_mowy": null,
+    "odmiana": null
+  },
+  "audiencja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "audiencja",
+        "1": "audiencji",
+        "2": "audiencji",
+        "3": "audiencję",
+        "4": "audiencją",
+        "5": "audiencji",
+        "6": "audiencjo"
+      },
+      "1": {
+        "0": "audiencje",
+        "1": null,
+        "2": "audiencjom",
+        "3": "audiencje",
+        "4": "audiencjami",
+        "5": "audiencjach",
+        "6": "audiencje"
+      }
+    }
+  },
+  "audycja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "audycja",
+        "1": "audycji",
+        "2": "audycji",
+        "3": "audycję",
+        "4": "audycją",
+        "5": "audycji",
+        "6": "audycjo"
+      },
+      "1": {
+        "0": "audycje",
+        "1": null,
+        "2": "audycjom",
+        "3": "audycje",
+        "4": "audycjami",
+        "5": "audycjach",
+        "6": "audycje"
+      }
+    }
+  },
+  "aukcja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "aukcja",
+        "1": "aukcji",
+        "2": "aukcji",
+        "3": "aukcję",
+        "4": "aukcją",
+        "5": "aukcji",
+        "6": "aukcjo"
+      },
+      "1": {
+        "0": "aukcje",
+        "1": null,
+        "2": "aukcjom",
+        "3": "aukcje",
+        "4": "aukcjami",
+        "5": "aukcjach",
+        "6": "aukcje"
+      }
+    }
+  },
+  "aureola": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "aureola",
+        "1": "aureoli",
+        "2": "aureoli",
+        "3": "aureolę",
+        "4": "aureolą",
+        "5": "aureoli",
+        "6": "aureolo"
+      },
+      "1": {
+        "0": "aureole",
+        "1": "aureoli",
+        "2": "aureolom",
+        "3": "aureole",
+        "4": "aureolami",
+        "5": "aureolach",
+        "6": "aureole"
+      }
+    }
+  },
+  "autentycznie": {
+    "czesc_mowy": -1
+  },
+  "autentyczność": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autentyczność",
+        "1": "autentyczności",
+        "2": "autentyczności",
+        "3": "autentyczność",
+        "4": "autentycznością",
+        "5": "autentyczności",
+        "6": "autentyczności"
+      },
+      "1": {}
+    }
+  },
+  "autentyzm": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autentyzm",
+        "1": "autentyzmu",
+        "2": "autentyzmowi",
+        "3": "autentyzm",
+        "4": "autentyzmem",
+        "5": "autentyzmie",
+        "6": "autentyzmie"
+      },
+      "1": {
+        "0": "autentyzmy",
+        "1": "autentyzmów",
+        "2": "autentyzmom",
+        "3": "autentyzmy",
+        "4": "autentyzmami",
+        "5": "autentyzmach",
+        "6": "autentyzmy"
+      }
+    }
+  },
+  "autobiografia": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autobiografia",
+        "1": "autobiografii",
+        "2": "autobiografii",
+        "3": "autobiografię",
+        "4": "autobiografią",
+        "5": "autobiografii",
+        "6": "autobiografio"
+      },
+      "1": {
+        "0": "autobiografie",
+        "1": "autobiografii",
+        "2": "autobiografiom",
+        "3": "autobiografie",
+        "4": "autobiografiami",
+        "5": "autobiografiach",
+        "6": "autobiografie"
+      }
+    }
+  },
+  "autobiograficzny": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autobiograficzny",
+            "1": "autobiograficznego",
+            "2": "autobiograficznemu",
+            "3": "autobiograficznego",
+            "4": "autobiograficznym",
+            "5": "autobiograficznym",
+            "6": "autobiograficzny"
+          },
+          "1": {
+            "0": "autobiograficzni",
+            "1": "autobiograficznych",
+            "2": "autobiograficznym",
+            "3": "autobiograficznych",
+            "4": "autobiograficznymi",
+            "5": "autobiograficznych",
+            "6": "autobiograficzni"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autobiograficzne",
+            "1": "autobiograficznego",
+            "2": "autobiograficznemu",
+            "3": "autobiograficzne",
+            "4": "autobiograficznym",
+            "5": "autobiograficznym",
+            "6": "autobiograficzne"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autobiograficzna",
+            "1": "autobiograficznej",
+            "2": "autobiograficznej",
+            "3": "autobiograficzną",
+            "4": "autobiograficzną",
+            "5": "autobiograficznej",
+            "6": "autobiograficzna"
+          },
+          "1": {
+            "0": "autobiograficzne",
+            "1": "autobiograficznych",
+            "2": "autobiograficznym",
+            "3": "autobiograficzne",
+            "4": "autobiograficznymi",
+            "5": "autobiograficznych",
+            "6": "autobiograficzne"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      }
+    }
+  },
+  "autobus": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autobus",
+        "1": "autobusu",
+        "2": "autobusowi",
+        "3": "autobus",
+        "4": "autobusem",
+        "5": "autobusie",
+        "6": "autobusie"
+      },
+      "1": {
+        "0": "autobusy",
+        "1": "autobusów",
+        "2": "autobusom",
+        "3": "autobusy",
+        "4": "autobusami",
+        "5": "autobusach",
+        "6": "autobusy"
+      }
+    }
+  },
+  "autochton": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autochton",
+        "1": "autochtona",
+        "2": "autochtonowi",
+        "3": "autochtona",
+        "4": "autochtonem",
+        "5": "autochtonie",
+        "6": "autochtonie"
+      },
+      "1": {
+        "0": "autochtoni",
+        "1": "autochtonów",
+        "2": "autochtonom",
+        "3": "autochtonów",
+        "4": "autochtonami",
+        "5": "autochtonach",
+        "6": "autochtoni"
+      }
+    }
+  },
+  "autokar": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autokar",
+        "1": "autokaru",
+        "2": "autokarowi",
+        "3": "autokar",
+        "4": "autokarem",
+        "5": "autokarze",
+        "6": "autokarze"
+      },
+      "1": {
+        "0": "autokary",
+        "1": "autokarów",
+        "2": "autokarom",
+        "3": "autokary",
+        "4": "autokarami",
+        "5": "autokarach",
+        "6": "autokary"
+      }
+    }
+  },
+  "autor": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autor",
+        "1": "autora",
+        "2": "autorowi",
+        "3": "autora",
+        "4": "autorem",
+        "5": "autorze",
+        "6": "autorze"
+      },
+      "1": {
+        "0": "autorzy",
+        "1": "autorów",
+        "2": "autorom",
+        "3": "autorów",
+        "4": "autorami",
+        "5": "autorach",
+        "6": "autorzy"
+      }
+    }
+  },
+  "autorka": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autorka",
+        "1": "autorki",
+        "2": "autorce",
+        "3": "autorkę",
+        "4": "autorką",
+        "5": "autorce",
+        "6": "autorko"
+      },
+      "1": {
+        "0": "autorki",
+        "1": "autorek",
+        "2": "autorkom",
+        "3": "autorki",
+        "4": "autorkami",
+        "5": "autorkach",
+        "6": "autorki"
+      }
+    }
+  },
+  "autorski": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autorski",
+            "1": "autorskiego",
+            "2": "autorskiemu",
+            "3": "autorskiego",
+            "4": "autorskim",
+            "5": "autorskim",
+            "6": "autorski"
+          },
+          "1": {
+            "0": "autorscy",
+            "1": "autorskich",
+            "2": "autorskim",
+            "3": "autorskich",
+            "4": "autorskimi",
+            "5": "autorskich",
+            "6": "autorscy"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autorskie",
+            "1": "autorskiego",
+            "2": "autorskiemu",
+            "3": "autorskie",
+            "4": "autorskim",
+            "5": "autorskim",
+            "6": "autorskie"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "autorska",
+            "1": "autorskiej",
+            "2": "autorskiej",
+            "3": "autorską",
+            "4": "autorską",
+            "5": "autorskiej",
+            "6": "autorska"
+          },
+          "1": {
+            "0": "autorskie",
+            "1": "autorskich",
+            "2": "autorskim",
+            "3": "autorskie",
+            "4": "autorskimi",
+            "5": "autorskich",
+            "6": "autorskie"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      }
+    }
+  },
+  "autorstwo": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autorstwo",
+        "1": "autorstwa",
+        "2": "autorstwu",
+        "3": "autorstwo",
+        "4": "autorstwem",
+        "5": "autorstwie",
+        "6": "autorstwo"
+      },
+      "1": {
+        "0": "autorstwa",
+        "1": "autorstw",
+        "2": "autorstwom",
+        "3": "autorstwa",
+        "4": "autorstwami",
+        "5": "autorstwach",
+        "6": "autorstwa"
+      }
+    }
+  },
+  "autorytet": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autorytet",
+        "1": "autorytetu",
+        "2": "autorytetowi",
+        "3": "autorytet",
+        "4": "autorytetem",
+        "5": "autorytecie",
+        "6": "autorytecie"
+      },
+      "1": {
+        "0": "autorytet",
+        "1": "autorytetu",
+        "2": "autorytetowi",
+        "3": "autorytet",
+        "4": "autorytetem",
+        "5": "autorytecie",
+        "6": "autorytecie"
+      }
+    }
+  },
+  "autostrada": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "autostrada",
+        "1": "autostrady",
+        "2": "autostradzie",
+        "3": "autostradę",
+        "4": "autostradą",
+        "5": "autostradzie",
+        "6": "autostrado"
+      },
+      "1": {
+        "0": "autostrady",
+        "1": "autostrad",
+        "2": "autostradom",
+        "3": "autostrady",
+        "4": "autostradami",
+        "5": "autostradach",
+        "6": "autostrady"
+      }
+    }
+  },
+  "awangarda": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awangarda",
+        "1": "awangardy",
+        "2": "awangardzie",
+        "3": "awangardę",
+        "4": "awangardą",
+        "5": "awangardzie",
+        "6": "awangardo"
+      },
+      "1": {
+        "0": "awangardy",
+        "1": "awangard",
+        "2": "awangardom",
+        "3": "awangardy",
+        "4": "awangardami",
+        "5": "awangardach",
+        "6": "awangardy"
+      }
+    }
+  },
+  "awans": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awans",
+        "1": "awansu",
+        "2": "awansowi",
+        "3": "awans",
+        "4": "awansem",
+        "5": "awansie",
+        "6": "awansie"
+      },
+      "1": {
+        "0": null,
+        "1": "awansów",
+        "2": "awansom",
+        "3": "awanse / awansy",
+        "4": "awansami",
+        "5": "awansach",
+        "6": "awanse / awansy"
+      }
+    }
+  },
+  "awansować": {
+    "czesc_mowy": -1
+  },
+  "awantura": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awantura",
+        "1": "awantury",
+        "2": "awanturze",
+        "3": "awanturę",
+        "4": "awanturą",
+        "5": "awanturze",
+        "6": "awanturo"
+      },
+      "1": {
+        "0": "awantury",
+        "1": "awantur",
+        "2": "awanturom",
+        "3": "awantury",
+        "4": "awanturami",
+        "5": "awanturach",
+        "6": "awantury"
+      }
+    }
+  },
+  "awaria": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awaria",
+        "1": "awarii",
+        "2": "awarii",
+        "3": "awarię",
+        "4": "awarią",
+        "5": "awarii",
+        "6": "awario"
+      },
+      "1": {
+        "0": "awarie",
+        "1": "awarii",
+        "2": "awariom",
+        "3": "awarie",
+        "4": "awariami",
+        "5": "awariach",
+        "6": "awarie"
+      }
+    }
+  },
+  "awersja": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awersja",
+        "1": "awersji",
+        "2": "awersji",
+        "3": "awersję",
+        "4": "awersją",
+        "5": "awersji",
+        "6": "awersjo"
+      },
+      "1": {
+        "0": "awersje",
+        "1": null,
+        "2": "awersjom",
+        "3": "awersje",
+        "4": "awersjami",
+        "5": "awersjach",
+        "6": "awersje"
+      }
+    }
+  },
+  "awitaminoza": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awitaminoza",
+        "1": "awitaminozy",
+        "2": "awitaminozie",
+        "3": "awitaminozę",
+        "4": "awitaminozą",
+        "5": "awitaminozie",
+        "6": "awitaminozo"
+      },
+      "1": {
+        "0": "awitaminozy",
+        "1": "awitaminoz",
+        "2": "awitaminozom",
+        "3": "awitaminozy",
+        "4": "awitaminozami",
+        "5": "awitaminozach",
+        "6": "awitaminozy"
+      }
+    }
+  },
+  "awizo": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "awizo",
+        "1": "awiza",
+        "2": "awizu",
+        "3": "awizo",
+        "4": "awizem",
+        "5": "awizie",
+        "6": "awizo"
+      },
+      "1": {
+        "0": "awiza",
+        "1": "awizów",
+        "2": "awizom",
+        "3": "awiza",
+        "4": "awizami",
+        "5": "awizach",
+        "6": "awiza"
+      }
+    }
+  },
+  "aż": {},
+  "biały": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najbielszy",
+            "1": "najbielszego",
+            "2": "najbielszemu",
+            "3": "najbielszego",
+            "4": "najbielszym",
+            "5": "najbielszym",
+            "6": "najbielszy"
+          },
+          "1": {
+            "0": "najbielsi",
+            "1": "najbielszych",
+            "2": "najbielszym",
+            "3": "najbielszych",
+            "4": "najbielszymi",
+            "5": "najbielszych",
+            "6": "najbielsi"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "biały",
+            "1": "białego",
+            "2": "białemu",
+            "3": "białego",
+            "4": "białym",
+            "5": "białym",
+            "6": "biały"
+          },
+          "1": {
+            "0": "biali",
+            "1": "białych",
+            "2": "białym",
+            "3": "białych",
+            "4": "białymi",
+            "5": "białych",
+            "6": "biali"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "bielszy",
+            "1": "bielszego",
+            "2": "bielszemu",
+            "3": "bielszego",
+            "4": "bielszym",
+            "5": "bielszym",
+            "6": "bielszy"
+          },
+          "1": {
+            "0": "bielsi",
+            "1": "bielszych",
+            "2": "bielszym",
+            "3": "bielszych",
+            "4": "bielszymi",
+            "5": "bielszych",
+            "6": "bielsi"
+          }
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {
+            "0": "najbielsze",
+            "1": "najbielszego",
+            "2": "najbielszemu",
+            "3": "najbielsze",
+            "4": "najbielszym",
+            "5": "najbielszym",
+            "6": "najbielsze"
+          },
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "białe",
+            "1": "białego",
+            "2": "białemu",
+            "3": "białe",
+            "4": "białym",
+            "5": "białym",
+            "6": "białe"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {
+            "0": "bielsze",
+            "1": "bielszego",
+            "2": "bielszemu",
+            "3": "bielsze",
+            "4": "bielszym",
+            "5": "bielszym",
+            "6": "bielsze"
+          },
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najbielsza",
+            "1": "najbielszej",
+            "2": "najbielszej",
+            "3": "najbielszą",
+            "4": "najbielszą",
+            "5": "najbielszej",
+            "6": "najbielsza"
+          },
+          "1": {
+            "0": "najbielsze",
+            "1": "najbielszych",
+            "2": "najbielszym",
+            "3": "najbielsze",
+            "4": "najbielszymi",
+            "5": "najbielszych",
+            "6": "najbielsze"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "biała",
+            "1": "białej",
+            "2": "białej",
+            "3": "białą",
+            "4": "białą",
+            "5": "białej",
+            "6": "biała"
+          },
+          "1": {
+            "0": "białe",
+            "1": "białych",
+            "2": "białym",
+            "3": "białe",
+            "4": "białymi",
+            "5": "białych",
+            "6": "białe"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "bielsza",
+            "1": "bielszej",
+            "2": "bielszej",
+            "3": "bielszą",
+            "4": "bielszą",
+            "5": "bielszej",
+            "6": "bielsza"
+          },
+          "1": {
+            "0": "bielsze",
+            "1": "bielszych",
+            "2": "bielszym",
+            "3": "bielsze",
+            "4": "bielszymi",
+            "5": "bielszych",
+            "6": "bielsze"
+          }
+        }
+      }
+    }
+  },
+  "chałupa": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "chałupa",
+        "1": "chałupy",
+        "2": "chałupie",
+        "3": "chałupę",
+        "4": "chałupą",
+        "5": "chałupie",
+        "6": "chałupo"
+      },
+      "1": {
+        "0": "chałupy",
+        "1": "chałup",
+        "2": "chałupom",
+        "3": "chałupy",
+        "4": "chałupami",
+        "5": "chałupach",
+        "6": "chałupy"
+      }
+    }
+  },
+  "czarny": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczarniejszy",
+            "1": "najczarniejszego",
+            "2": "najczarniejszemu",
+            "3": "najczarniejszego",
+            "4": "najczarniejszym",
+            "5": "najczarniejszym",
+            "6": "najczarniejszy"
+          },
+          "1": {
+            "0": "najczarniejsi",
+            "1": "najczarniejszych",
+            "2": "najczarniejszym",
+            "3": "najczarniejszych",
+            "4": "najczarniejszymi",
+            "5": "najczarniejszych",
+            "6": "najczarniejsi"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "czarny",
+            "1": "czarnego",
+            "2": "czarnemu",
+            "3": "czarnego",
+            "4": "czarnym",
+            "5": "czarnym",
+            "6": "czarny"
+          },
+          "1": {
+            "0": "czarni",
+            "1": "czarnych",
+            "2": "czarnym",
+            "3": "czarnych",
+            "4": "czarnymi",
+            "5": "czarnych",
+            "6": "czarni"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czarniejszy",
+            "1": "czarniejszego",
+            "2": "czarniejszemu",
+            "3": "czarniejszego",
+            "4": "czarniejszym",
+            "5": "czarniejszym",
+            "6": "czarniejszy"
+          },
+          "1": {
+            "0": "czarniejsi",
+            "1": "czarniejszych",
+            "2": "czarniejszym",
+            "3": "czarniejszych",
+            "4": "czarniejszymi",
+            "5": "czarniejszych",
+            "6": "czarniejsi"
+          }
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczarniejsze",
+            "1": "najczarniejszego",
+            "2": "najczarniejszemu",
+            "3": "najczarniejsze",
+            "4": "najczarniejszym",
+            "5": "najczarniejszym",
+            "6": "najczarniejsze"
+          },
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "czarne",
+            "1": "czarnego",
+            "2": "czarnemu",
+            "3": "czarne",
+            "4": "czarnym",
+            "5": "czarnym",
+            "6": "czarne"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czarniejsze",
+            "1": "czarniejszego",
+            "2": "czarniejszemu",
+            "3": "czarniejsze",
+            "4": "czarniejszym",
+            "5": "czarniejszym",
+            "6": "czarniejsze"
+          },
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczarniejsza",
+            "1": "najczarniejszej",
+            "2": "najczarniejszej",
+            "3": "najczarniejszą",
+            "4": "najczarniejszą",
+            "5": "najczarniejszej",
+            "6": "najczarniejsza"
+          },
+          "1": {
+            "0": "najczarniejsze",
+            "1": "najczarniejszych",
+            "2": "najczarniejszym",
+            "3": "najczarniejsze",
+            "4": "najczarniejszymi",
+            "5": "najczarniejszych",
+            "6": "najczarniejsze"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "czarna",
+            "1": "czarnej",
+            "2": "czarnej",
+            "3": "czarną",
+            "4": "czarną",
+            "5": "czarnej",
+            "6": "czarna"
+          },
+          "1": {
+            "0": "czarne",
+            "1": "czarnych",
+            "2": "czarnym",
+            "3": "czarne",
+            "4": "czarnymi",
+            "5": "czarnych",
+            "6": "czarne"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czarniejsza",
+            "1": "czarniejszej",
+            "2": "czarniejszej",
+            "3": "czarniejszą",
+            "4": "czarniejszą",
+            "5": "czarniejszej",
+            "6": "czarniejsza"
+          },
+          "1": {
+            "0": "czarniejsze",
+            "1": "czarniejszych",
+            "2": "czarniejszym",
+            "3": "czarniejsze",
+            "4": "czarniejszymi",
+            "5": "czarniejszych",
+            "6": "czarniejsze"
+          }
+        }
+      }
+    }
+  },
+  "czerwony": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczerwieńszy",
+            "1": "najczerwieńszego",
+            "2": "najczerwieńszemu",
+            "3": "najczerwieńszego",
+            "4": "najczerwieńszym",
+            "5": "najczerwieńszym",
+            "6": "najczerwieńszy"
+          },
+          "1": {
+            "0": "najczerwieńsi",
+            "1": "najczerwieńszych",
+            "2": "najczerwieńszym",
+            "3": "najczerwieńszych",
+            "4": "najczerwieńszymi",
+            "5": "najczerwieńszych",
+            "6": "najczerwieńsi"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "czerwony",
+            "1": "czerwonego",
+            "2": "czerwonemu",
+            "3": "czerwonego",
+            "4": "czerwonym",
+            "5": "czerwonym",
+            "6": "czerwony"
+          },
+          "1": {
+            "0": "czerwoni",
+            "1": "czerwonych",
+            "2": "czerwonym",
+            "3": "czerwonych",
+            "4": "czerwonymi",
+            "5": "czerwonych",
+            "6": "czerwoni"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czerwieńszy",
+            "1": "czerwieńszego",
+            "2": "czerwieńszemu",
+            "3": "czerwieńszego",
+            "4": "czerwieńszym",
+            "5": "czerwieńszym",
+            "6": "czerwieńszy"
+          },
+          "1": {
+            "0": "czerwieńsi",
+            "1": "czerwieńszych",
+            "2": "czerwieńszym",
+            "3": "czerwieńszych",
+            "4": "czerwieńszymi",
+            "5": "czerwieńszych",
+            "6": "czerwieńsi"
+          }
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczerwieńsze",
+            "1": "najczerwieńszego",
+            "2": "najczerwieńszemu",
+            "3": "najczerwieńsze",
+            "4": "najczerwieńszym",
+            "5": "najczerwieńszym",
+            "6": "najczerwieńsze"
+          },
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "czerwone",
+            "1": "czerwonego",
+            "2": "czerwonemu",
+            "3": "czerwone",
+            "4": "czerwonym",
+            "5": "czerwonym",
+            "6": "czerwone"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czerwieńsze",
+            "1": "czerwieńszego",
+            "2": "czerwieńszemu",
+            "3": "czerwieńsze",
+            "4": "czerwieńszym",
+            "5": "czerwieńszym",
+            "6": "czerwieńsze"
+          },
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najczerwieńsza",
+            "1": "najczerwieńszej",
+            "2": "najczerwieńszej",
+            "3": "najczerwieńszą",
+            "4": "najczerwieńszą",
+            "5": "najczerwieńszej",
+            "6": "najczerwieńsza"
+          },
+          "1": {
+            "0": "najczerwieńsze",
+            "1": "najczerwieńszych",
+            "2": "najczerwieńszym",
+            "3": "najczerwieńsze",
+            "4": "najczerwieńszymi",
+            "5": "najczerwieńszych",
+            "6": "najczerwieńsze"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "czerwona",
+            "1": "czerwonej",
+            "2": "czerwonej",
+            "3": "czerwoną",
+            "4": "czerwoną",
+            "5": "czerwonej",
+            "6": "czerwona"
+          },
+          "1": {
+            "0": "czerwone",
+            "1": "czerwonych",
+            "2": "czerwonym",
+            "3": "czerwone",
+            "4": "czerwonymi",
+            "5": "czerwonych",
+            "6": "czerwone"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "czerwieńsza",
+            "1": "czerwieńszej",
+            "2": "czerwieńszej",
+            "3": "czerwieńszą",
+            "4": "czerwieńszą",
+            "5": "czerwieńszej",
+            "6": "czerwieńsza"
+          },
+          "1": {
+            "0": "czerwieńsze",
+            "1": "czerwieńszych",
+            "2": "czerwieńszym",
+            "3": "czerwieńsze",
+            "4": "czerwieńszymi",
+            "5": "czerwieńszych",
+            "6": "czerwieńsze"
+          }
+        }
+      }
+    }
+  },
+  "czubek": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "czubek",
+        "1": "czubka",
+        "2": "czubkowi",
+        "3": "czubek",
+        "4": "czubkiem",
+        "5": "czubku",
+        "6": "czubku"
+      },
+      "1": {
+        "0": "czubki",
+        "1": "czubków",
+        "2": "czubkom",
+        "3": "czubki",
+        "4": "czubkami",
+        "5": "czubkach",
+        "6": "czubki"
+      }
+    }
+  },
+  "dmuchać": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "dmuchałem",
+          "1": "dmuchałeś",
+          "2": "dmuchał",
+          "3": "dmuchaliśmy",
+          "4": "dmuchaliście",
+          "5": "dmuchali"
+        },
+        "nijaki": {
+          "0": "dmuchało"
+        },
+        "zenski": {
+          "0": "dmuchałam",
+          "1": "dmuchałaś",
+          "2": "dmuchała",
+          "3": "dmuchałyśmy",
+          "4": "dmuchałyście",
+          "5": "dmuchały"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę dmuchał",
+            "będę dmuchać"
+          ],
+          "1": [
+            "będziesz dmuchał",
+            "będziesz dmuchać"
+          ],
+          "2": [
+            "będzie dmuchał",
+            "będzie dmuchać"
+          ],
+          "3": [
+            "będziemy dmuchali",
+            "będziemy dmuchać"
+          ],
+          "4": [
+            "będziecie dmuchali",
+            "będziecie dmuchać"
+          ],
+          "5": [
+            "będą dmuchali",
+            "będą dmuchać"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie dmuchało",
+          "1": "będzie dmuchać"
+        },
+        "zenski": {
+          "0": [
+            "będę dmuchała",
+            "będę dmuchać"
+          ],
+          "1": [
+            "będziesz dmuchała",
+            "będziesz dmuchać"
+          ],
+          "2": [
+            "będzie dmuchała",
+            "będzie dmuchać"
+          ],
+          "3": [
+            "będziemy dmuchały",
+            "będziemy dmuchać"
+          ],
+          "4": [
+            "będziecie dmuchały",
+            "będziecie dmuchać"
+          ],
+          "5": [
+            "będą dmuchały",
+            "będą dmuchać"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "dmucham",
+        "1": "dmuchasz",
+        "2": "dmucha",
+        "3": "dmuchamy",
+        "4": "dmuchacie",
+        "5": "dmuchają"
+      }
+    }
+  },
+  "do": {
+    "czesc_mowy": 11
+  },
+  "dolina": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "dolina",
+        "1": "doliny",
+        "2": "dolinie",
+        "3": "dolinę",
+        "4": "doliną",
+        "5": "dolinie",
+        "6": "dolino"
+      },
+      "1": {
+        "0": "doliny",
+        "1": "dolin",
+        "2": "dolinom",
+        "3": "doliny",
+        "4": "dolinami",
+        "5": "dolinach",
+        "6": "doliny"
+      }
+    }
+  },
+  "dom": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "dom",
+        "1": "domu",
+        "2": "domowi",
+        "3": "dom",
+        "4": "domem",
+        "5": "domu",
+        "6": null
+      },
+      "1": {
+        "0": "domy",
+        "1": "domów",
+        "2": "domom",
+        "3": "domy",
+        "4": "domami",
+        "5": "domach",
+        "6": "domy"
+      }
+    }
+  },
+  "dopiero": {
+    "czesc_mowy": -1
+  },
+  "durnota": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "durnota",
+        "1": "durnoty",
+        "2": "durnocie",
+        "3": "durnotę",
+        "4": "durnotą",
+        "5": "durnocie",
+        "6": "durnoto"
+      },
+      "1": {
+        "0": "durnoty",
+        "1": "durnot",
+        "2": "durnotom",
+        "3": "durnoty",
+        "4": "durnotami",
+        "5": "durnotach",
+        "6": "durnoty"
+      }
+    }
+  },
+  "dziadek": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "dziadek",
+        "1": "dziadka",
+        "2": "dziadkowi",
+        "3": "dziadka",
+        "4": "dziadkiem",
+        "5": "dziadku",
+        "6": "dziadku"
+      },
+      "1": {
+        "0": "dziadkowie",
+        "1": "dziadków",
+        "2": "dziadkom",
+        "3": "dziadków",
+        "4": "dziadkami",
+        "5": "dziadkach",
+        "6": "dziadkowie"
+      }
+    }
+  },
+  "epoka": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "epoka",
+        "1": "epoki",
+        "2": "epoce",
+        "3": "epokę",
+        "4": "epoką",
+        "5": "epoce",
+        "6": "epoko"
+      },
+      "1": {
+        "0": "epoki",
+        "1": "epok",
+        "2": "epokom",
+        "3": "epoki",
+        "4": "epokami",
+        "5": "epokach",
+        "6": "epoki"
+      }
+    }
+  },
+  "góra": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "góra",
+        "1": "góry",
+        "2": "górze",
+        "3": "górę",
+        "4": "górą",
+        "5": "górze",
+        "6": "góro"
+      },
+      "1": {
+        "0": "góry",
+        "1": "gór",
+        "2": "górom",
+        "3": "góry",
+        "4": "górami",
+        "5": "górach",
+        "6": "góry"
+      }
+    }
+  },
+  "gęś": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "gęś",
+        "1": "gęsi",
+        "2": "gęsi",
+        "3": "gęś",
+        "4": "gęsią",
+        "5": "gęsi",
+        "6": "gęsi"
+      },
+      "1": {
+        "0": "gęsi",
+        "1": "gęsi",
+        "2": "gęsiom",
+        "3": "gęsi",
+        "4": "gęsiami / gęśmi",
+        "5": "gęsiach",
+        "6": "gęsi"
+      }
+    }
+  },
+  "głowa": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "głowa",
+        "1": "głowy",
+        "2": "głowie",
+        "3": "głowę",
+        "4": "głową",
+        "5": "głowie",
+        "6": "głowo"
+      },
+      "1": {
+        "0": "głowy",
+        "1": "głów",
+        "2": "głowom",
+        "3": "głowy",
+        "4": "głowami",
+        "5": "głowach",
+        "6": "głowy"
+      }
+    }
+  },
+  "iść": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "szedłem",
+          "1": "szedłeś",
+          "2": "szedł",
+          "3": "szliśmy",
+          "4": "szliście",
+          "5": "szli"
+        },
+        "nijaki": {
+          "0": "szło"
+        },
+        "zenski": {
+          "0": "szłam",
+          "1": "szłaś",
+          "2": "szła",
+          "3": "szłyśmy",
+          "4": "szłyście",
+          "5": "szły"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę szedł",
+            "będę iść"
+          ],
+          "1": [
+            "będziesz szedł",
+            "będziesz iść"
+          ],
+          "2": [
+            "będzie szedł",
+            "będzie iść"
+          ],
+          "3": [
+            "będziemy szli",
+            "będziemy iść"
+          ],
+          "4": [
+            "będziecie szli",
+            "będziecie iść"
+          ],
+          "5": [
+            "będą szli",
+            "będą iść"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie szło",
+          "1": "będzie iść"
+        },
+        "zenski": {
+          "0": [
+            "będę szła",
+            "będę iść"
+          ],
+          "1": [
+            "będziesz szła",
+            "będziesz iść"
+          ],
+          "2": [
+            "będzie szła",
+            "będzie iść"
+          ],
+          "3": [
+            "będziemy szły",
+            "będziemy iść"
+          ],
+          "4": [
+            "będziecie szły",
+            "będziecie iść"
+          ],
+          "5": [
+            "będą szły",
+            "będą iść"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "idę",
+        "1": "idziesz",
+        "2": "idzie",
+        "3": "idziemy",
+        "4": "idziecie",
+        "5": "idą"
+      }
+    }
+  },
+  "jezioro": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "jezioro",
+        "1": "jeziora",
+        "2": "jezioru",
+        "3": "jezioro",
+        "4": "jeziorem",
+        "5": "jeziorze",
+        "6": "jezioro"
+      },
+      "1": {
+        "0": "jeziora",
+        "1": "jezior",
+        "2": "jeziorom",
+        "3": "jeziora",
+        "4": "jeziorami",
+        "5": "jeziorach",
+        "6": "jeziora"
+      }
+    }
+  },
+  "karczma": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "karczma",
+        "1": "karczmy",
+        "2": "karczmie",
+        "3": "karczmę",
+        "4": "karczmą",
+        "5": "karczmie",
+        "6": "karczmo"
+      },
+      "1": {
+        "0": "karczmy",
+        "1": null,
+        "2": "karczmom",
+        "3": "karczmy",
+        "4": "karczmami",
+        "5": "karczmach",
+        "6": "karczmy"
+      }
+    }
+  },
+  "kot": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "kot",
+        "1": "kota",
+        "2": "kotu",
+        "3": "kota",
+        "4": "kotem",
+        "5": "kocie",
+        "6": "kocie"
+      },
+      "1": {
+        "0": "koty",
+        "1": "kotów",
+        "2": "kotom",
+        "3": "koty",
+        "4": "kotami",
+        "5": "kotach",
+        "6": "koty"
+      }
+    }
+  },
+  "ksiądz": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "ksiądz",
+        "1": "księdza",
+        "2": "księdzu",
+        "3": "księdza",
+        "4": "księdzem",
+        "5": "księdzu",
+        "6": "księże"
+      },
+      "1": {
+        "0": "księża",
+        "1": "księży",
+        "2": "księżom",
+        "3": "księży",
+        "4": "księżmi",
+        "5": "księżach",
+        "6": "księża"
+      }
+    }
+  },
+  "las": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "las",
+        "1": "lasu",
+        "2": "lasowi",
+        "3": "las",
+        "4": "lasem",
+        "5": "lesie",
+        "6": "lesie"
+      },
+      "1": {
+        "0": "lasy",
+        "1": "lasów",
+        "2": "lasom",
+        "3": "lasy",
+        "4": "lasami",
+        "5": "lasach",
+        "6": "lasy"
+      }
+    }
+  },
+  "można": {},
+  "myśleć": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "myślałem",
+          "1": "myślałeś",
+          "2": "myślał",
+          "3": "myśleliśmy",
+          "4": "myśleliście",
+          "5": "myśleli"
+        },
+        "nijaki": {
+          "0": "myślało"
+        },
+        "zenski": {
+          "0": "myślałam",
+          "1": "myślałaś",
+          "2": "myślała",
+          "3": "myślałyśmy",
+          "4": "myślałyście",
+          "5": "myślały"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę myślał",
+            "będę myśleć"
+          ],
+          "1": [
+            "będziesz myślał",
+            "będziesz myśleć"
+          ],
+          "2": [
+            "będzie myślał",
+            "będzie myśleć"
+          ],
+          "3": [
+            "będziemy myśleli",
+            "będziemy myśleć"
+          ],
+          "4": [
+            "będziecie myśleli",
+            "będziecie myśleć"
+          ],
+          "5": [
+            "będą myśleli",
+            "będą myśleć"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie myślało",
+          "1": "będzie myśleć"
+        },
+        "zenski": {
+          "0": [
+            "będę myślała",
+            "będę myśleć"
+          ],
+          "1": [
+            "będziesz myślała",
+            "będziesz myśleć"
+          ],
+          "2": [
+            "będzie myślała",
+            "będzie myśleć"
+          ],
+          "3": [
+            "będziemy myślały",
+            "będziemy myśleć"
+          ],
+          "4": [
+            "będziecie myślały",
+            "będziecie myśleć"
+          ],
+          "5": [
+            "będą myślały",
+            "będą myśleć"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "myślę",
+        "1": "myślisz",
+        "2": "myśli",
+        "3": "myślimy",
+        "4": "myślicie",
+        "5": "myślą"
+      }
+    }
+  },
+  "na": {
+    "czesc_mowy": -1
+  },
+  "nad": {
+    "czesc_mowy": -1
+  },
+  "nasz": {
+    "czesc_mowy": -1
+  },
+  "niebo": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "niebo",
+        "1": "nieba",
+        "2": "niebu",
+        "3": "niebo",
+        "4": "niebem",
+        "5": "niebie",
+        "6": "niebo"
+      },
+      "1": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null
+      }
+    }
+  },
+  "ocenić": {
+    "czesc_mowy": -1
+  },
+  "patrzeć": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "patrzałem",
+          "1": "patrzałeś",
+          "2": "patrzał",
+          "3": "patrzeliśmy",
+          "4": "patrzeliście",
+          "5": "patrzeli"
+        },
+        "nijaki": {
+          "0": "patrzało"
+        },
+        "zenski": {
+          "0": "patrzałam",
+          "1": "patrzałaś",
+          "2": "patrzała",
+          "3": "patrzałyśmy",
+          "4": "patrzałyście",
+          "5": "patrzały"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę patrzał",
+            "będę patrzeć"
+          ],
+          "1": [
+            "będziesz patrzał",
+            "będziesz patrzeć"
+          ],
+          "2": [
+            "będzie patrzał",
+            "będzie patrzeć"
+          ],
+          "3": [
+            "będziemy patrzeli",
+            "będziemy patrzeć"
+          ],
+          "4": [
+            "będziecie patrzeli",
+            "będziecie patrzeć"
+          ],
+          "5": [
+            "będą patrzeli",
+            "będą patrzeć"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie patrzało",
+          "1": "będzie patrzeć"
+        },
+        "zenski": {
+          "0": [
+            "będę patrzała",
+            "będę patrzeć"
+          ],
+          "1": [
+            "będziesz patrzała",
+            "będziesz patrzeć"
+          ],
+          "2": [
+            "będzie patrzała",
+            "będzie patrzeć"
+          ],
+          "3": [
+            "będziemy patrzały",
+            "będziemy patrzeć"
+          ],
+          "4": [
+            "będziecie patrzały",
+            "będziecie patrzeć"
+          ],
+          "5": [
+            "będą patrzały",
+            "będą patrzeć"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "patrzę",
+        "1": "patrzysz",
+        "2": "patrzy",
+        "3": "patrzymy",
+        "4": "patrzycie",
+        "5": "patrzą"
+      }
+    }
+  },
+  "piękny": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najpiękniejszy",
+            "1": "najpiękniejszego",
+            "2": "najpiękniejszemu",
+            "3": "najpiękniejszego",
+            "4": "najpiękniejszym",
+            "5": "najpiękniejszym",
+            "6": "najpiękniejszy"
+          },
+          "1": {
+            "0": "najpiękniejsi",
+            "1": "najpiękniejszych",
+            "2": "najpiękniejszym",
+            "3": "najpiękniejszych",
+            "4": "najpiękniejszymi",
+            "5": "najpiękniejszych",
+            "6": "najpiękniejsi"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "piękny",
+            "1": "pięknego",
+            "2": "pięknemu",
+            "3": "pięknego",
+            "4": "pięknym",
+            "5": "pięknym",
+            "6": "piękny"
+          },
+          "1": {
+            "0": "piękni",
+            "1": "pięknych",
+            "2": "pięknym",
+            "3": "pięknych",
+            "4": "pięknymi",
+            "5": "pięknych",
+            "6": "piękni"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "piękniejszy",
+            "1": "piękniejszego",
+            "2": "piękniejszemu",
+            "3": "piękniejszego",
+            "4": "piękniejszym",
+            "5": "piękniejszym",
+            "6": "piękniejszy"
+          },
+          "1": {
+            "0": "piękniejsi",
+            "1": "piękniejszych",
+            "2": "piękniejszym",
+            "3": "piękniejszych",
+            "4": "piękniejszymi",
+            "5": "piękniejszych",
+            "6": "piękniejsi"
+          }
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {
+            "0": "najpiękniejsze",
+            "1": "najpiękniejszego",
+            "2": "najpiękniejszemu",
+            "3": "najpiękniejsze",
+            "4": "najpiękniejszym",
+            "5": "najpiękniejszym",
+            "6": "najpiękniejsze"
+          },
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "piękne",
+            "1": "pięknego",
+            "2": "pięknemu",
+            "3": "piękne",
+            "4": "pięknym",
+            "5": "pięknym",
+            "6": "piękne"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {
+            "0": "piękniejsze",
+            "1": "piękniejszego",
+            "2": "piękniejszemu",
+            "3": "piękniejsze",
+            "4": "piękniejszym",
+            "5": "piękniejszym",
+            "6": "piękniejsze"
+          },
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najpiękniejsza",
+            "1": "najpiękniejszej",
+            "2": "najpiękniejszej",
+            "3": "najpiękniejszą",
+            "4": "najpiękniejszą",
+            "5": "najpiękniejszej",
+            "6": "najpiękniejsza"
+          },
+          "1": {
+            "0": "najpiękniejsze",
+            "1": "najpiękniejszych",
+            "2": "najpiękniejszym",
+            "3": "najpiękniejsze",
+            "4": "najpiękniejszymi",
+            "5": "najpiękniejszych",
+            "6": "najpiękniejsze"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "piękna",
+            "1": "pięknej",
+            "2": "pięknej",
+            "3": "piękną",
+            "4": "piękną",
+            "5": "pięknej",
+            "6": "piękna"
+          },
+          "1": {
+            "0": "piękne",
+            "1": "pięknych",
+            "2": "pięknym",
+            "3": "piękne",
+            "4": "pięknymi",
+            "5": "pięknych",
+            "6": "piękne"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "piękniejsza",
+            "1": "piękniejszej",
+            "2": "piękniejszej",
+            "3": "piękniejszą",
+            "4": "piękniejszą",
+            "5": "piękniejszej",
+            "6": "piękniejsza"
+          },
+          "1": {
+            "0": "piękniejsze",
+            "1": "piękniejszych",
+            "2": "piękniejszym",
+            "3": "piękniejsze",
+            "4": "piękniejszymi",
+            "5": "piękniejszych",
+            "6": "piękniejsze"
+          }
+        }
+      }
+    }
+  },
+  "pole": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "pole",
+        "1": "pola",
+        "2": "polu",
+        "3": "pole",
+        "4": "polem",
+        "5": "polu",
+        "6": "pole"
+      },
+      "1": {
+        "0": "pola",
+        "1": "pól",
+        "2": "polom",
+        "3": "pola",
+        "4": "polami",
+        "5": "polach",
+        "6": "pola"
+      }
+    }
+  },
+  "polecieć": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "poleciałem",
+          "1": "poleciałeś",
+          "2": "poleciał",
+          "3": "polecieliśmy",
+          "4": "polecieliście",
+          "5": "polecieli"
+        },
+        "nijaki": {
+          "0": "poleciało"
+        },
+        "zenski": {
+          "0": "poleciałam",
+          "1": "poleciałaś",
+          "2": "poleciała",
+          "3": "poleciałyśmy",
+          "4": "poleciałyście",
+          "5": "poleciały"
+        }
+      },
+      "przyszly": {
+        "meski": {},
+        "nijaki": {},
+        "zenski": {}
+      },
+      "terazniejszy": {}
+    }
+  },
+  "przestrzeń": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "przestrzeń",
+        "1": "przestrzeni",
+        "2": "przestrzeni",
+        "3": "przestrzeń",
+        "4": "przestrzenią",
+        "5": "przestrzeni",
+        "6": "przestrzeni"
+      },
+      "1": {
+        "0": "przestrzenie",
+        "1": "przestrzeni",
+        "2": "przestrzeniom",
+        "3": "przestrzenie",
+        "4": "przestrzeniami",
+        "5": "przestrzeniach",
+        "6": "przestrzenie"
+      }
+    }
+  },
+  "ptak": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "ptak",
+        "1": "ptaka",
+        "2": "ptakowi",
+        "3": "ptaka",
+        "4": "ptakiem",
+        "5": "ptaku",
+        "6": "ptaku"
+      },
+      "1": {
+        "0": "ptaki",
+        "1": "ptaków",
+        "2": "ptakom",
+        "3": "ptaki",
+        "4": "ptakami",
+        "5": "ptakach",
+        "6": "ptaki"
+      }
+    }
+  },
+  "pływać": {
+    "czesc_mowy": 1,
+    "koniugacja": {
+      "przeszly": {
+        "meski": {
+          "0": "pływałem",
+          "1": "pływałeś",
+          "2": "pływał",
+          "3": "pływaliśmy",
+          "4": "pływaliście",
+          "5": "pływali"
+        },
+        "nijaki": {
+          "0": "pływało"
+        },
+        "zenski": {
+          "0": "pływałam",
+          "1": "pływałaś",
+          "2": "pływała",
+          "3": "pływałyśmy",
+          "4": "pływałyście",
+          "5": "pływały"
+        }
+      },
+      "przyszly": {
+        "meski": {
+          "0": [
+            "będę pływał",
+            "będę pływać"
+          ],
+          "1": [
+            "będziesz pływał",
+            "będziesz pływać"
+          ],
+          "2": [
+            "będzie pływał",
+            "będzie pływać"
+          ],
+          "3": [
+            "będziemy pływali",
+            "będziemy pływać"
+          ],
+          "4": [
+            "będziecie pływali",
+            "będziecie pływać"
+          ],
+          "5": [
+            "będą pływali",
+            "będą pływać"
+          ]
+        },
+        "nijaki": {
+          "0": "będzie pływało",
+          "1": "będzie pływać"
+        },
+        "zenski": {
+          "0": [
+            "będę pływała",
+            "będę pływać"
+          ],
+          "1": [
+            "będziesz pływała",
+            "będziesz pływać"
+          ],
+          "2": [
+            "będzie pływała",
+            "będzie pływać"
+          ],
+          "3": [
+            "będziemy pływały",
+            "będziemy pływać"
+          ],
+          "4": [
+            "będziecie pływały",
+            "będziecie pływać"
+          ],
+          "5": [
+            "będą pływały",
+            "będą pływać"
+          ]
+        }
+      },
+      "terazniejszy": {
+        "0": "pływam",
+        "1": "pływasz",
+        "2": "pływa",
+        "3": "pływamy",
+        "4": "pływacie",
+        "5": "pływają"
+      }
+    }
+  },
+  "ryba": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "ryba",
+        "1": "ryby",
+        "2": "rybie",
+        "3": "rybę",
+        "4": "rybą",
+        "5": "rybie",
+        "6": "rybo"
+      },
+      "1": {
+        "0": "ryby",
+        "1": "ryb",
+        "2": "rybom",
+        "3": "ryby",
+        "4": "rybami",
+        "5": "rybach",
+        "6": "ryby"
+      }
+    }
+  },
+  "równina": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "równina",
+        "1": "równiny",
+        "2": "równinie",
+        "3": "równinę",
+        "4": "równiną",
+        "5": "równinie",
+        "6": "równino"
+      },
+      "1": {
+        "0": "równiny",
+        "1": "równin",
+        "2": "równinom",
+        "3": "równiny",
+        "4": "równinami",
+        "5": "równinach",
+        "6": "równiny"
+      }
+    }
+  },
+  "sierpień": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "sierpień",
+        "1": "sierpnia",
+        "2": "sierpniowi",
+        "3": "sierpień",
+        "4": "sierpniem",
+        "5": "sierpniu",
+        "6": "sierpniu"
+      },
+      "1": {
+        "0": "sierpnie",
+        "1": "sierpni / sierpniów",
+        "2": "sierpniom",
+        "3": "sierpnie",
+        "4": "sierpniami",
+        "5": "sierpniach",
+        "6": "sierpnie"
+      }
+    }
+  },
+  "siwy": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "siwy",
+            "1": "siwego",
+            "2": "siwemu",
+            "3": "siwego",
+            "4": "siwym",
+            "5": "siwym",
+            "6": "siwy"
+          },
+          "1": {
+            "0": "siwi",
+            "1": "siwych",
+            "2": "siwym",
+            "3": "siwych",
+            "4": "siwymi",
+            "5": "siwych",
+            "6": "siwi"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "siwe",
+            "1": "siwego",
+            "2": "siwemu",
+            "3": "siwe",
+            "4": "siwym",
+            "5": "siwym",
+            "6": "siwe"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {},
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "siwa",
+            "1": "siwej",
+            "2": "siwej",
+            "3": "siwą",
+            "4": "siwą",
+            "5": "siwej",
+            "6": "siwa"
+          },
+          "1": {
+            "0": "siwe",
+            "1": "siwych",
+            "2": "siwym",
+            "3": "siwe",
+            "4": "siwymi",
+            "5": "siwych",
+            "6": "siwe"
+          }
+        },
+        "wyzszy": {
+          "0": {},
+          "1": {}
+        }
+      }
+    }
+  },
+  "ty": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "ty",
+        "1": [
+          "ciebie",
+          "cię"
+        ],
+        "2": [
+          "tobie",
+          "ci"
+        ],
+        "3": [
+          "ciebie",
+          "cię"
+        ],
+        "4": "tobą",
+        "5": "tobie",
+        "6": "ty"
+      },
+      "1": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      }
+    }
+  },
+  "tylko": {
+    "czesc_mowy": -1
+  },
+  "w": {},
+  "wiać": {
+    "czesc_mowy": -1
+  },
+  "ww": {
+    "czesc_mowy": null,
+    "odmiana": null
+  },
+  "wy": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "1": {
+        "0": "wy",
+        "1": "was",
+        "2": "wam",
+        "3": "was",
+        "4": "wami",
+        "5": "was",
+        "6": "wy"
+      }
+    }
+  },
+  "zieleń": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "zieleń",
+        "1": "zieleni",
+        "2": "zieleni",
+        "3": "zieleń",
+        "4": "zielenią",
+        "5": "zieleni",
+        "6": "zieleni"
+      },
+      "1": {
+        "0": "zielenie",
+        "1": "zieleni",
+        "2": "zieleniom",
+        "3": "zielenie",
+        "4": "zieleniami",
+        "5": "zieleniach",
+        "6": "zielenie"
+      }
+    }
+  },
+  "zielony": {
+    "czesc_mowy": 2,
+    "deklinacja": {
+      "meski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najzieleńszy",
+            "1": "najzieleńszego",
+            "2": "najzieleńszemu",
+            "3": "najzieleńszego",
+            "4": "najzieleńszym",
+            "5": "najzieleńszym",
+            "6": "najzieleńszy"
+          },
+          "1": {
+            "0": "najzieleńsi",
+            "1": "najzieleńszych",
+            "2": "najzieleńszym",
+            "3": "najzieleńszych",
+            "4": "najzieleńszymi",
+            "5": "najzieleńszych",
+            "6": "najzieleńsi"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "zielony",
+            "1": "zielonego",
+            "2": "zielonemu",
+            "3": "zielonego",
+            "4": "zielonym",
+            "5": "zielonym",
+            "6": "zielony"
+          },
+          "1": {
+            "0": "zieloni",
+            "1": "zielonych",
+            "2": "zielonym",
+            "3": "zielonych",
+            "4": "zielonymi",
+            "5": "zielonych",
+            "6": "zieloni"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "zieleńszy",
+            "1": "zieleńszego",
+            "2": "zieleńszemu",
+            "3": "zieleńszego",
+            "4": "zieleńszym",
+            "5": "zieleńszym",
+            "6": "zieleńszy"
+          },
+          "1": {
+            "0": "zieleńsi",
+            "1": "zieleńszych",
+            "2": "zieleńszym",
+            "3": "zieleńszych",
+            "4": "zieleńszymi",
+            "5": "zieleńszych",
+            "6": "zieleńsi"
+          }
+        }
+      },
+      "nijaki": {
+        "najwyzszy": {
+          "0": {
+            "0": "najzieleńsze",
+            "1": "najzieleńszego",
+            "2": "najzieleńszemu",
+            "3": "najzieleńsze",
+            "4": "najzieleńszym",
+            "5": "najzieleńszym",
+            "6": "najzieleńsze"
+          },
+          "1": {}
+        },
+        "rowny": {
+          "0": {
+            "0": "zielone",
+            "1": "zielonego",
+            "2": "zielonemu",
+            "3": "zielone",
+            "4": "zielonym",
+            "5": "zielonym",
+            "6": "zielone"
+          },
+          "1": {}
+        },
+        "wyzszy": {
+          "0": {
+            "0": "zieleńsze",
+            "1": "zieleńszego",
+            "2": "zieleńszemu",
+            "3": "zieleńsze",
+            "4": "zieleńszym",
+            "5": "zieleńszym",
+            "6": "zieleńsze"
+          },
+          "1": {}
+        }
+      },
+      "zenski": {
+        "najwyzszy": {
+          "0": {
+            "0": "najzieleńsza",
+            "1": "najzieleńszej",
+            "2": "najzieleńszej",
+            "3": "najzieleńszą",
+            "4": "najzieleńszą",
+            "5": "najzieleńszej",
+            "6": "najzieleńsza"
+          },
+          "1": {
+            "0": "najzieleńsze",
+            "1": "najzieleńszych",
+            "2": "najzieleńszym",
+            "3": "najzieleńsze",
+            "4": "najzieleńszymi",
+            "5": "najzieleńszych",
+            "6": "najzieleńsze"
+          }
+        },
+        "rowny": {
+          "0": {
+            "0": "zielona",
+            "1": "zielonej",
+            "2": "zielonej",
+            "3": "zieloną",
+            "4": "zieloną",
+            "5": "zielonej",
+            "6": "zielona"
+          },
+          "1": {
+            "0": "zielone",
+            "1": "zielonych",
+            "2": "zielonym",
+            "3": "zielone",
+            "4": "zielonymi",
+            "5": "zielonych",
+            "6": "zielone"
+          }
+        },
+        "wyzszy": {
+          "0": {
+            "0": "zieleńsza",
+            "1": "zieleńszej",
+            "2": "zieleńszej",
+            "3": "zieleńszą",
+            "4": "zieleńszą",
+            "5": "zieleńszej",
+            "6": "zieleńsza"
+          },
+          "1": {
+            "0": "zieleńsze",
+            "1": "zieleńszych",
+            "2": "zieleńszym",
+            "3": "zieleńsze",
+            "4": "zieleńszymi",
+            "5": "zieleńszych",
+            "6": "zieleńsze"
+          }
+        }
+      }
+    }
+  },
+  "łemkowyna": {
+    "czesc_mowy": 0
+  },
+  "środa": {
+    "czesc_mowy": 0,
+    "deklinacja": {
+      "0": {
+        "0": "środa",
+        "1": "środy",
+        "2": "środzie",
+        "3": "środę",
+        "4": "środą",
+        "5": "środzie",
+        "6": "środo"
+      },
+      "1": {
+        "0": "środy",
+        "1": "śród",
+        "2": "środom",
+        "3": "środy",
+        "4": "środami",
+        "5": "środach",
+        "6": "środy"
+      }
+    }
+  }
+}
