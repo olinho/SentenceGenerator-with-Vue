@@ -2481,6 +2481,10 @@
       }
     }
   },
+  "pod": {
+    "czesc_mowy": null,
+    "odmiana": null
+  },
   "pole": {
     "czesc_mowy": 0,
     "deklinacja": {

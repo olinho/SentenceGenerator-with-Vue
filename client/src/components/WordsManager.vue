@@ -21,7 +21,7 @@
 <script>
 
   export default {
-    name: "WordsManager",
+    name: 'WordsManager',
     data() {
       return {
         currentTab: 'Equal',
@@ -31,7 +31,7 @@
     computed: {
       currentTabComponent() {
         return 'tab-' + this.currentTab.toLowerCase();
-      }
+      },
     },
   }
 </script>

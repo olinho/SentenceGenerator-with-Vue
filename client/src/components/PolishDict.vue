@@ -8,8 +8,7 @@
             </div>
             <div class="col-sm-5">
               <label>Incoming data status:</label>
-              <span v-if="this.incomingDataStatus === 'success'" class="positive">{{incomingDataStatus}}</span>
-              <span v-else class="negative">{{incomingDataStatus}}</span>
+              <span v-bind:class="incomingDataClass">{{ incomingDataStatus }}</span>
               <br>
               <div>{{updatedWord}}</div>
             </div>
@@ -24,12 +23,19 @@
           <p>{{ searchingText }}</p>
           <br><br>
           <h3>Filter by part of speech</h3>
-          <div class="btn-group"
-               v-for="num in Object.keys(this.partOfSpeechMapper)"
-          >
-            <input type="checkbox" v-bind:id="num" v-model="partOfSpeechFilterManager[num]">
-              <label v-bind:for="num"> {{partOfSpeechMapper[num]}}</label>
+          <div class="d-lg-inline-flex">
+            <template v-for="(mapperVal, num, mapperIndex) in partOfSpeechMapper">
+                <div style="margin: 10px;">
+                  <input type="checkbox" name="listOfPartOfSpeech"
+                       :id="mapperIndex"
+                       :key="num"
+                       v-on:click="updateLastlyClickedFilter(num)">
+                  <label v-bind:for="num"> {{partOfSpeechMapper[num]}}</label>
+                </div>
+            </template>
           </div>
+          <hr>
+          <div>{{ activeFilters }}</div>
           <table class="table table-hover">
             <thead>
               <tr>
@@ -40,11 +46,10 @@
               </tr>
             </thead>
             <tbody>
-              <tr v-for="(item, key, index) in filteredDict" :key="index">
-                <td v-if="item.updated > 0" class="positive">
-                  {{ key }}
-                </td>
-                <td v-else>
+              <tr v-for="(item, key, index) in filteredDict"
+                  :key="index"
+                  v-if="getListOfActivePartOfSpeechFilters().indexOf(item.czesc_mowy) > -1">
+                <td v-bind:class="[{positive: item.updated > 0}]">
                   {{ key }}
                 </td>
                 <td>{{ mapNumPartOfSpeechToName(item.czesc_mowy) }}</td>
@@ -84,7 +89,7 @@
 
 <script>
   import axios from 'axios';
-  import inflection from "./inflection";
+  import inflection from './inflection';
 
   export default {
     name: 'PolishDict',
@@ -98,6 +103,7 @@
         updatedWord: '',
         words: {},
         filteredDict: {},
+        activeFilters: {},
         partOfSpeechMapper: {},
         partOfSpeechFilterManager: {},
         lastlyClickedPartOfSpeechNumFilter: -1,
@@ -114,8 +120,16 @@
       lastlyClickedPartOfSpeechNumFilter: function(val) {
         console.log('Lastly clicked: ' + val);
         console.log(this.partOfSpeechFilterManager[val]);
-        this.partOfSpeechFilterManager[val] = !this.partOfSpeechFilterManager[val];
+        // this.partOfSpeechFilterManager[val] = !this.partOfSpeechFilterManager[val];
         console.log(this.partOfSpeechFilterManager[val]);
+      },
+    },
+    computed: {
+      incomingDataClass() {
+        return {
+          positive: this.incomingDataStatus === 'success',
+          negative: this.incomingDataStatus !== 'success',
+        }
       },
     },
     mounted() {
@@ -124,9 +138,56 @@
     created() {
       this.getWords();
       this.getPartOfSpeechMapper();
-      // this.debouncedGetAnswer = _.debounce(this.filterWords, 500);
+      this.selectAllPartOfSpeechFilters();
     },
     methods: {
+      getListOfActivePartOfSpeechFilters() {
+        let filteredPartOfSpeechNumList = [];
+        Object.keys(this.activeFilters).forEach((k) => {
+          if (this.activeFilters[k]) {
+            filteredPartOfSpeechNumList.push(parseInt(k));
+          }
+        });
+        return filteredPartOfSpeechNumList;
+      },
+      updateLastlyClickedFilter(num) {
+        let newBool = !this.partOfSpeechFilterManager[num];
+        this.$set(this.partOfSpeechFilterManager, num, newBool);
+        this.updateActiveFilters();
+      },
+      selectAllPartOfSpeechFilters() {
+        Object.keys(this.activeFilters).forEach((k) => {
+          this.$set(this.activeFilters, k, true);
+        });
+      },
+      updateActiveFilters() {
+        let partOfSpeechManager = this.partOfSpeechFilterManager;
+        Object.keys(partOfSpeechManager).forEach((k) => {
+          if (partOfSpeechManager[k]) {
+            this.$set(this.activeFilters, k, true);
+          } else {
+            this.$set(this.activeFilters, k, false);
+          }
+        });
+      },
+      updateFilteredWords() {
+        let filterList = this.getListOfActivePartOfSpeechFilters();
+        let newDict = {};
+        let oldDict = this.filteredDict !== {} ? this.filteredDict : this.words;
+        Object.keys(oldDict).forEach((k) => {
+          try {
+            let node = oldDict[k];
+            let nodeKeyName = 'czesc_mowy';
+            if  (hasNodeKey(node,nodeKeyName)){
+              if (filterList.indexOf(node[nodeKeyName]) > -1) {
+                newDict[k] = oldDict[k];
+              }
+            }
+          } catch (e) {
+          }
+        });
+        this.filteredDict = newDict;
+      },
       onChangePartOfSpeechFilter(num) {
         this.lastlyClickedPartOfSpeechNumFilter = num;
         this.partOfSpeechFilterManager[num] = !this.partOfSpeechFilterManager[num];
@@ -223,6 +284,15 @@
       },
     },
   };
+
+  function hasNodeKey(node, keyName) {
+    try {
+      return keyName in node;
+    } catch (e) {
+      console.log(' not in');
+    }
+
+  }
 </script>
 
 <style scoped>
