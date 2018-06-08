@@ -1,2 +1,8 @@
-1. Run client: in client/ dir
+Run client: in client/ dir
 npm run dev
+
+Run server:
+python app.py
+
+Stop git file tracking:
+git rm -r --cached file_name
