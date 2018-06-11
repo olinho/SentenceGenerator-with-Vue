@@ -20,21 +20,10 @@
           <br><br>
           <input ref="searchInputRef" v-model="question" title="searcher">
           <p>{{ answer }}</p>
-          <p>{{ searchingText }}</p>
           <br><br>
-          <h3>Filter by part of speech</h3>
-          <div class="d-lg-inline-flex">
-            <template v-for="(mapperVal, num, mapperIndex) in partOfSpeechMapper">
-                <div style="margin: 10px;">
-                  <input type="checkbox" name="listOfPartOfSpeech"
-                       :id="mapperIndex"
-                       :key="num"
-                       v-on:click="updateLastlyClickedFilter(num)">
-                  <label v-bind:for="num"> {{partOfSpeechMapper[num]}}</label>
-                </div>
-            </template>
-          </div>
-          <hr>
+          <PartOfSpeechSelector
+            v-bind:partOfSpeechMapper="partOfSpeechMapper">
+          </PartOfSpeechSelector>
           <div>{{ activeFilters }}</div>
           <table class="table table-hover">
             <thead>
@@ -46,16 +35,16 @@
               </tr>
             </thead>
             <tbody>
-              <tr v-for="(item, key, index) in filteredDict"
+              <tr v-for="(wordNode, key, index) in filteredDict"
                   :key="index"
-                  v-if="getListOfActivePartOfSpeechFilters().indexOf(item.czesc_mowy) > -1">
-                <td v-bind:class="[{positive: item.updated > 0}]">
+                  v-show="doesShowWord(wordNode)">
+                <td v-bind:class="[{positive: wordNode.updated > 0}]">
                   {{ key }}
                 </td>
-                <td>{{ mapNumPartOfSpeechToName(item.czesc_mowy) }}</td>
+                <td>{{ mapNumPartOfSpeechToName(wordNode.czesc_mowy) }}</td>
                 <!--<td>{{ getInflection(item) }}</td>-->
-                <inflection v-bind:description="item">
-                </inflection>
+                <Inflection v-bind:description="wordNode">
+                </Inflection>
                 <td>
                   <button class="btn btn-warning btn-sm">Update</button>
                   <button class="btn btn-danger btn-sm">Delete</button>
@@ -75,7 +64,7 @@
                         label-for="form-word-input">
             <b-form-input id="form-word-input"
                           type="text"
-                          v-model="addWordForm.word"
+                          v-model="wordAdditionForm.word"
                           required
                           placeholder="Enter word">
             </b-form-input>
@@ -89,16 +78,16 @@
 
 <script>
   import axios from 'axios';
-  import inflection from './inflection';
+  import PartOfSpeechSelector from './PartOfSpeechSelector';
+  import Inflection from './InflectionComponent';
 
   export default {
     name: 'PolishDict',
-    components: {inflection},
+    components: {PartOfSpeechSelector, Inflection},
     data() {
       return {
         question: '',
         answer: 'Nothing to filter',
-        searchingText: '',
         incomingDataStatus: '',
         updatedWord: '',
         words: {},
@@ -107,7 +96,7 @@
         partOfSpeechMapper: {},
         partOfSpeechFilterManager: {},
         lastlyClickedPartOfSpeechNumFilter: -1,
-        addWordForm: {
+        wordAdditionForm: {
           word: '',
         },
       };
@@ -126,10 +115,7 @@
     },
     computed: {
       incomingDataClass() {
-        return {
-          positive: this.incomingDataStatus === 'success',
-          negative: this.incomingDataStatus !== 'success',
-        }
+        return this.incomingDataStatus === 'success' ? 'positive' : 'negative';
       },
     },
     mounted() {
@@ -139,8 +125,12 @@
       this.getWords();
       this.getPartOfSpeechMapper();
       this.selectAllPartOfSpeechFilters();
+      this.$on('updateFilter', this.updateLastlyClickedFilter);
     },
     methods: {
+      doesShowWord(item) {
+        return this.getListOfActivePartOfSpeechFilters().indexOf(item.czesc_mowy) > -1;
+      },
       getListOfActivePartOfSpeechFilters() {
         let filteredPartOfSpeechNumList = [];
         Object.keys(this.activeFilters).forEach((k) => {
@@ -161,6 +151,7 @@
         });
       },
       updateActiveFilters() {
+        console.log('Updating active filters...');
         let partOfSpeechManager = this.partOfSpeechFilterManager;
         Object.keys(partOfSpeechManager).forEach((k) => {
           if (partOfSpeechManager[k]) {
@@ -169,29 +160,6 @@
             this.$set(this.activeFilters, k, false);
           }
         });
-      },
-      updateFilteredWords() {
-        let filterList = this.getListOfActivePartOfSpeechFilters();
-        let newDict = {};
-        let oldDict = this.filteredDict !== {} ? this.filteredDict : this.words;
-        Object.keys(oldDict).forEach((k) => {
-          try {
-            let node = oldDict[k];
-            let nodeKeyName = 'czesc_mowy';
-            if  (hasNodeKey(node,nodeKeyName)){
-              if (filterList.indexOf(node[nodeKeyName]) > -1) {
-                newDict[k] = oldDict[k];
-              }
-            }
-          } catch (e) {
-          }
-        });
-        this.filteredDict = newDict;
-      },
-      onChangePartOfSpeechFilter(num) {
-        this.lastlyClickedPartOfSpeechNumFilter = num;
-        this.partOfSpeechFilterManager[num] = !this.partOfSpeechFilterManager[num];
-        console.log(this.partOfSpeechFilterManager[num]);
       },
       getWords() {
         const path = 'http://localhost:5000/polish_dict';
@@ -206,7 +174,7 @@
           });
       },
       initForm() {
-        this.addWordForm.word = '';
+        this.wordAdditionForm.word = '';
       },
       addWord(payload) {
         const path = 'http://localhost:5000/polish_dict';
@@ -224,7 +192,7 @@
         evt.preventDefault();
         this.$refs.addWordModal.hide();
         const payload = {
-          word: this.addWordForm.word,
+          word: this.wordAdditionForm.word,
         };
         this.addWord(payload);
         this.initForm();
@@ -295,9 +263,10 @@
   }
 </script>
 
-<style scoped>
+<style>
   .positive {
     background-color: #71dd8a;
+    border: 1px solid;
   }
   .negative {
     background-color: #C21F39;

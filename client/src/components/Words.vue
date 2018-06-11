@@ -1,7 +1,9 @@
 <template>
     <div class="container">
       <ul id="words">
-        <li v-for="(item, key, index) in words">
+        <li v-for="(item, key, index) in words"
+          :key="index"
+        >
           <lu>{{key}}: {{item}}</lu>
           <lu>Elements: {{item.length}}</lu>
         </li>

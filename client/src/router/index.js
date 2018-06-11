@@ -4,6 +4,7 @@ import Ping from '@/components/Ping';
 import Words from '@/components/Words';
 import PolishDict from '@/components/PolishDict';
 import WordsManager from '@/components/WordsManager';
+import Inflection from '@/components/InflectionComponent';
 
 
 Vue.use(Router);
@@ -30,6 +31,11 @@ export default new Router({
       name: 'PolishDict',
       component: PolishDict,
     },
+    {
+      path: '/inflection',
+      name: 'Inflection',
+      component: Inflection,
+    }
   ],
   mode: 'history',
 });
