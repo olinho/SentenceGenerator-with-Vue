@@ -2238,26 +2238,26 @@
           "0": "patrzało"
         },
         "zenski": {
-          "0": "patrzałam",
-          "1": "patrzałaś",
-          "2": "patrzała",
-          "3": "patrzałyśmy",
-          "4": "patrzałyście",
-          "5": "patrzały"
+          "0": "patrzyłam",
+          "1": "patrzyłaś",
+          "2": "patrzyła",
+          "3": "patrzyłyśmy",
+          "4": "patrzyłyście",
+          "5": "patrzyły"
         }
       },
       "przyszly": {
         "meski": {
           "0": [
-            "będę patrzał",
+            "będę patrzył",
             "będę patrzeć"
           ],
           "1": [
-            "będziesz patrzał",
+            "będziesz patrzył",
             "będziesz patrzeć"
           ],
           "2": [
-            "będzie patrzał",
+            "będzie patrzył",
             "będzie patrzeć"
           ],
           "3": [
@@ -2268,38 +2268,35 @@
             "będziecie patrzeli",
             "będziecie patrzeć"
           ],
-          "5": [
-            "będą patrzeli",
-            "będą patrzeć"
-          ]
+          "5": "będą patrzeć"
         },
         "nijaki": {
-          "0": "będzie patrzało",
+          "0": "będzie patrzyło",
           "1": "będzie patrzeć"
         },
         "zenski": {
           "0": [
-            "będę patrzała",
+            "będę patrzyła",
             "będę patrzeć"
           ],
           "1": [
-            "będziesz patrzała",
+            "będziesz patrzyła",
             "będziesz patrzeć"
           ],
           "2": [
-            "będzie patrzała",
+            "będzie patrzyła",
             "będzie patrzeć"
           ],
           "3": [
-            "będziemy patrzały",
+            "będziemy patrzyły",
             "będziemy patrzeć"
           ],
           "4": [
-            "będziecie patrzały",
+            "będziecie patrzyły",
             "będziecie patrzeć"
           ],
           "5": [
-            "będą patrzały",
+            "będą patrzyły",
             "będą patrzeć"
           ]
         }

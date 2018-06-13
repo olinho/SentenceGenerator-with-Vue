@@ -43,8 +43,9 @@
                 </td>
                 <td>{{ mapNumPartOfSpeechToName(wordNode.czesc_mowy) }}</td>
                 <!--<td>{{ getInflection(item) }}</td>-->
-                <Inflection v-bind:description="wordNode">
+                <Inflection v-if="hasInflection(wordNode)" v-bind:description="wordNode">
                 </Inflection>
+                <td v-else></td>
                 <td>
                   <button class="btn btn-warning btn-sm">Update</button>
                   <button class="btn btn-danger btn-sm">Delete</button>
@@ -128,6 +129,9 @@
       this.$on('updateFilter', this.updateLastlyClickedFilter);
     },
     methods: {
+      hasInflection(wordNode) {
+        return [0,1,2].indexOf(wordNode.czesc_mowy) > -1;
+      },
       doesShowWord(item) {
         return this.getListOfActivePartOfSpeechFilters().indexOf(item.czesc_mowy) > -1;
       },
