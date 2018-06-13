@@ -59,9 +59,7 @@
     },
     methods: {
       emptyDataPropagator() {
-        if (!this.hasData(this.declinationLocally[0]) && !this.hasData(this.declinationLocally[1])) {
-          console.log('lack of data');
-          console.log(this.levelLocally);
+        if (!this.hasSingular && !this.hasPlural) {
           this.$parent.$emit('emptyDataDetection', this.levelLocally);
         }
       }

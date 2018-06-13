@@ -21,6 +21,15 @@ Vue.mixin({
       return Object.keys(el).length;
     },
   },
+  filters: {
+    flatten: function(data) {
+      if (Array.isArray(data)) {
+        return data.join("; ");
+      } else {
+        return data;
+      }
+    },
+  },
 });
 
 /* eslint-disable no-new */
