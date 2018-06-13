@@ -28,10 +28,10 @@
           <table class="table table-hover">
             <thead>
               <tr>
-                <th scope="col">Word</th>
-                <th scope="col">Part of speech</th>
-                <th scope="col">Inflection</th>
-                <th scope="col">Management</th>
+                <th scope="col" style="width: 10%">Word</th>
+                <th scope="col" style="width: 10%">Part of speech</th>
+                <th scope="col" style="width: 50%">Inflection</th>
+                <th scope="col" style="width: 10%">Management</th>
               </tr>
             </thead>
             <tbody>
@@ -273,5 +273,8 @@
   }
   .tab-button.active {
     background: #e0e0e0;
+  }
+  table tr:nth-child(3) {
+    width: 250px;
   }
 </style>

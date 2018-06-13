@@ -2,7 +2,8 @@
   <div class="inline-group">
     <h3>Filter by part of speech</h3>
     <div class="row">
-      <div v-for="(mapperVal, num, mapperIndex) in partOfSpeechMapper">
+      <div v-for="(mapperVal, num, mapperIndex) in partOfSpeechMapper"
+          v-bind:key="'partOfSpeech'+mapperIndex">
         <div style="margin: 10px;"
              v-bind:class="[{positive: isChecked[num]}]"
         >
@@ -31,7 +32,7 @@
     props: ['partOfSpeechMapper'],
     methods: {
       click(filterNum) {
-        console.log('Filter ' + filterNum + ' has been already clicked.');
+        console.log('Filter ' + filterNum.toString() + ' has been already clicked.');
         this.$parent.$emit('updateFilter', filterNum);
       },
     },
