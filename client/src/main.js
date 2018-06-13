@@ -12,6 +12,17 @@ Vue.config.productionTip = false;
 
 Vue.use(BootstrapVue);
 
+
+// globally scoped data
+Vue.mixin({
+  methods: {
+    // globally scoped function
+    hasData(el) {
+      return Object.keys(el).length;
+    },
+  },
+});
+
 /* eslint-disable no-new */
 const app = new Vue({
   el: '#app',
